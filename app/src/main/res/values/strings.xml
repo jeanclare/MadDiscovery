@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MadDiscovery</string>
+    <string name="login">Login Form</string>
+    <string name="loginheader">Login</string>
+    <string name="signupheader">Sign Up</string>
+    <string name="user">Username</string>
+    <string name="password">Password</string>
+    <string name="log">LOGIN</string>
+    <string name="sign">Sign Up</string>
+    <string name="email">Email Address</string>\
+    <string name="locate">Location</string>
+    <string name="phone">Phone Number</string>
+    <string name="submitbtn">Submit </string>
+    <string name="logoutbtn">Log Out </string>
+    <string name="eventname">Name of the event </string>
+    <string name="location">Location </string>
+    <string name="date">Date </string>
+    <string name="time">Start Time Of Event </string>
+    <string name="organizer"> Name of Event Organizer </string>
+    <string name="create"> Create An Event </string>
+    <string name="deletebtn"> Delete </string>
+    <string name="savebtn"> Save </string>
+    <string name="closebtn"> Close </string>
+    <string name="addbtn"> Add </string>
+    <string name="listbtn"> List </string>
+    <string name="btnUploadImage">Upload Image </string>
+</resources>
